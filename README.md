@@ -17,7 +17,7 @@ or in one line:
 $ brew install spirometaxas/tap/periodic-table-cli
 ```
 
-Note: Installs the Python version.
+Note: Installs the Python version.  Also available for [NodeJS](https://www.npmjs.com/package/periodic-table-cli).
 
 ## License
 - [MIT](https://github.com/spirometaxas/homebrew-tap/blob/main/LICENSE) &copy; [Spiro Metaxas](https://spirometaxas.com)
