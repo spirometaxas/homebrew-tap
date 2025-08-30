@@ -1,12 +1,11 @@
 # homebrew-tap
 
 ## periodic-table-cli
-An interactive Periodic Table of Elements app for the console!
+An interactive [Periodic Table of Elements](https://en.wikipedia.org/wiki/Periodic_table) app for the console!
 
 ![What periodic-table-cli prints to the console](https://raw.githubusercontent.com/spirometaxas/periodic-table-cli/main/img/animated.gif)
 
-- [Homepage](https://spirometaxas.com/projects/periodic-table-cli/)
-- [Repository](https://github.com/spirometaxas/periodic-table-cli-py)
+See [Homepage](https://spirometaxas.com/projects/periodic-table-cli/) or [GitHub Repository](https://github.com/spirometaxas/periodic-table-cli-py) for documentation, instructions, and more!
 
 ### Installation
 ```bash
