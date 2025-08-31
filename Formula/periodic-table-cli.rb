@@ -10,7 +10,7 @@ class PeriodicTableCli < Formula
   depends_on "python@3.12"
 
   livecheck do
-    url :pypi
+    url :stable
     strategy :pypi
   end
 
