@@ -9,11 +9,6 @@ class PeriodicTableCli < Formula
 
   depends_on "python@3.12"
 
-  livecheck do
-    url :stable
-    strategy :pypi
-  end
-
   def install
     virtualenv_install_with_resources
   end
