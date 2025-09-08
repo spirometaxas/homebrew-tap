@@ -16,6 +16,11 @@ or in one line:
 ```bash
 $ brew install spirometaxas/tap/periodic-table-cli
 ```
+then to run:
+```
+$ periodic-table-cli
+$ periodic-table-cli [options]
+```
 
 Note: Installs the Python version.  Also available for [NodeJS](https://www.npmjs.com/package/periodic-table-cli).
 
